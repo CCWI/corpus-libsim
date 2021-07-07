@@ -1,0 +1,69 @@
+Web Applications
+Build Automation Tool Plugins
+Search Engines
+Cryptography
+Logging / Monitoring
+Barcode Handler
+Testing
+File Handler
+Example
+Code analyses
+Database
+Benchmarks
+Utilities
+Build
+UI
+IDE Modules
+Caching
+Stream Processing
+Native Access Tools
+Application Layer Protocol Integration
+Machine Learning
+Chart Libraries
+Security / Authentification
+DNS Libraries
+Configuration Libraries
+Dependency Injection
+Application-/ Web-Server
+Operations management
+Marshalling / Unmarshalling
+Aspect Oriented
+Languages / Compiler / Interpretation
+Crawler
+Job Scheduling
+Natural Language Processing
+Rule Engines
+Messaging / Integration
+Annotation Processing
+Graph Algorithms and Tools
+OSGi
+Managing / Monitoring
+Distributed Coordination
+Cluster Managment
+Bitcoin
+Classpath Tools
+Actor Frameworks
+Exception Handling
+External Process Execution
+JWT Libraries
+Money Libraries
+Reflection Libraries
+Distributed Communication
+Concurrency Libraries
+Social Network Clients
+Cloud Computing
+Mailing
+Command Line Parsers
+File System
+Compression Libraries
+Distributed Tracing
+Communication Protocol Integration
+Distributed Computing
+Version-control system tools
+Off-Heap Libraries
+Bytecode Libraries
+Template Engines
+Java Specifications
+Containerization
+Hashing
+Geospatial Libraries

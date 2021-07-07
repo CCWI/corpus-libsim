@@ -1,0 +1,2 @@
+2 | 200 Mean Validation loss: 0.2881619453430176
+2 | 200 Mean Validation accuracy: 0.9482879161834716

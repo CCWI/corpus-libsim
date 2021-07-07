@@ -1,0 +1,2 @@
+3 | 50 Mean Validation loss: 0.3151609838008881
+3 | 50 Mean Validation accuracy: 0.9437456250190734

@@ -1,0 +1,8 @@
+Results on 5 folds
+Accuracy,None,None,0.9746,0.001696
+Loss,None,None,0.085403,0.0076185
+Precision,None,None,0.97373,0.0083015
+Recall,None,None,0.94542,0.015731
+Precision weighted,None,None,0.97384,0.0013559
+Recall weighted,None,None,0.97355,0.0013008
+F1 weighted,None,None,0.97336,0.00137
